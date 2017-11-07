@@ -7,3 +7,4 @@ Simple device, attach the ws2812 to the nodemcu and upload the code. The nodemcu
 Example 255000000000 sent over the incomming mqtt topic turns the led red.
 
 see https://www.itsalllost.com/neopixel-notifier/ for more.
+Originally from https://github.com/joshhodgson/ESPNeopixelMQTTDriver (guessing I should have forked it?)
